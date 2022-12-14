@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <dimen name="joker_font_size">64sp</dimen>
     <dimen name="button_font_size">64sp</dimen>
 
@@ -8,4 +9,6 @@
     <dimen name="rounded_button_stroke_width">1dp</dimen>
     <dimen name="label_font_size">22sp</dimen>
     <dimen name="padding_default">16dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+
 </resources>
