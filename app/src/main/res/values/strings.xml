@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Appiadas</string>
+    <string name="label_joker_hint">Aqui será exibida a piada</string>
+    <string name="button_new_joker">Conte outra piada</string>
 </resources>
