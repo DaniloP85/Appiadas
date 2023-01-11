@@ -1,6 +1,6 @@
 # Appiadas
 
-Firebase and Swit integration example
+Random joke generator
 
 ## Description
 
