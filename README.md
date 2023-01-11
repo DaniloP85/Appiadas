@@ -7,7 +7,7 @@ Random joke generator
 Apply the concepts demonstrating in class, in the FIAP mobile development course
 
 ## Getting Started
-1. Clone project git@github.com:DaniloP85/Appiadas.git or  https://github.com/DaniloP85/Appiadas.git
+1. Clone project `git@github.com:DaniloP85/Appiadas.git` or  `https://github.com/DaniloP85/Appiadas.git`
 2. Open the project in Android Studio
 
 ## Authors
